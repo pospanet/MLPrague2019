@@ -1,6 +1,7 @@
 # Trained model files
 *.h5
 *.json
+*.pb
 
 # Image datasets
 data/

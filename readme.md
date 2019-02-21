@@ -29,3 +29,7 @@ https://www.kaggle.com/joosthazelzet/lego-brick-images
 
 ### Stanford Dogs Dataset
 http://vision.stanford.edu/aditya86/ImageNetDogs/
+
+## Links
+https://github.com/pipidog/keras_to_tensorflow/blob/master/keras_to_tensorflow.py
+https://github.com/pospanet/docker2azure
