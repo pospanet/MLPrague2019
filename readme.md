@@ -17,6 +17,9 @@ Once you have conda installed localy, you can create ready-to-go environment usi
 
 `conda env create -f keras_tf_cpu.yaml`
 
+for GPU version you have to have CUDA (see below) drivers
+`conda env create -f keras_tf_gpu.yaml`
+
 ## Git client
 
 Code samples can be found in this repo. To interact with, you have to have Git client. Installation guide can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
@@ -39,3 +42,5 @@ http://vision.stanford.edu/aditya86/ImageNetDogs/
 [Docker on Azure](https://github.com/pospanet/docker2azure)
 
 [Install IoT Edge for Linux](https://docs.microsoft.com/azure/iot-edge/how-to-install-iot-edge-linux)
+
+[TensorFlow GPU support instalation](https://www.tensorflow.org/install/gpu)
