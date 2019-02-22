@@ -1,4 +1,4 @@
-name: keras_tf_cpu
+name: keras_tf_cpu_test
 channels:
   - conda-forge
   - defaults
