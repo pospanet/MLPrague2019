@@ -1,5 +1,6 @@
 # ML on the EDGE workshop for ML Prague 2019
-ToDo
+Main workshop goal is to demonstrate how to automate model deployment to the edge device. So models are artificial and I do care about performance at all.
+
 # Environment setup
 
 ## VS code
@@ -22,15 +23,17 @@ Code samples can be found in this repo. To interact with, you have to have Git c
 
 Last but not least you should have Docker engine to be able to build, deploy and test final project. Docker community edition can be installed from [here](https://hub.docker.com/search/?type=edition&offering=community).
 
-## Dataset
+# Dataset
 
-### LEGO bricks
+## LEGO bricks
 https://www.kaggle.com/joosthazelzet/lego-brick-images
 
-### Stanford Dogs Dataset
+## Stanford Dogs Dataset
 http://vision.stanford.edu/aditya86/ImageNetDogs/
 
-## Links
-https://github.com/pipidog/keras_to_tensorflow/blob/master/keras_to_tensorflow.py
-https://github.com/pospanet/docker2azure
-https://docs.microsoft.com/azure/iot-edge/how-to-install-iot-edge-linux
+# Useful links
+[Convert Keras model to TensorFlow](https://github.com/pipidog/keras_to_tensorflow/blob/master/keras_to_tensorflow.py)
+
+[Docker on Azure](https://github.com/pospanet/docker2azure)
+
+[Install IoT Edge for Linux](https://docs.microsoft.com/azure/iot-edge/how-to-install-iot-edge-linux)

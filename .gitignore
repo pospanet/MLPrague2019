@@ -1,10 +1,13 @@
 # Trained model files
-*.h5
-*.json
-*.pb
+*weights.h5
+*model.json
+*model.pb
+*classes.txt
 
 # Image datasets
-data/
+data/**/*.jpg
+data/**/*.jpeg
+data/**/*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
