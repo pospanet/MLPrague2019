@@ -33,3 +33,4 @@ http://vision.stanford.edu/aditya86/ImageNetDogs/
 ## Links
 https://github.com/pipidog/keras_to_tensorflow/blob/master/keras_to_tensorflow.py
 https://github.com/pospanet/docker2azure
+https://docs.microsoft.com/azure/iot-edge/how-to-install-iot-edge-linux
