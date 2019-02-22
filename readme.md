@@ -12,7 +12,7 @@ Most of the sample code is Python. To not to mess with any local Python environm
 
 Once you have conda installed localy, you can create ready-to-go environment using [YAML file](keras_tf_cpu.yaml) by running following command.
 
-`conda env create -f konda_tf_cpu.yaml`
+`conda env create -f keras_tf_cpu.yaml`
 
 ## Git client
 
