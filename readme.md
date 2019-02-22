@@ -1,6 +1,8 @@
 # ML on the EDGE workshop for ML Prague 2019
 Main workshop goal is to demonstrate how to automate model deployment to the edge device. So models are artificial and I do care about performance at all.
 
+So if you wanna skip model training part, please download model definition from [here](https://publicsharestorage.blob.core.windows.net/publicshare/MLPrague2019/lego.zip).
+
 # Environment setup
 
 ## VS code
