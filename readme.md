@@ -1,7 +1,12 @@
+# !!! ML Prague participants notice !!!
+
+I am working on workshop screencast which should be available till end of Feb 2019. In case of any questions, comments, etc. feel free to create new issue here. Thansk
+
 # ML on the EDGE workshop for ML Prague 2019
+
 Main workshop goal is to demonstrate how to automate model deployment to the edge device. So models are artificial and I do care about performance at all.
 
-So if you wanna skip model training part, please download model definition from [here](https://publicsharestorage.blob.core.windows.net/publicshare/MLPrague2019/lego.zip).
+So if you wanna skip model training part, please download model definition from [here](https://publicsharestorage.blob.core.windows.net/publicshare/MLPrague2019/lego.zip) and you can jump directly to deployment.
 
 # Environment setup
 
@@ -17,7 +22,8 @@ Once you have conda installed localy, you can create ready-to-go environment usi
 
 `conda env create -f keras_tf_cpu.yaml`
 
-for GPU version you have to have CUDA (see below) drivers
+for GPU version you have to have CUDA & cuDDN (see below) drivers/SDK
+
 `conda env create -f keras_tf_gpu.yaml`
 
 ## Git client
